@@ -12,7 +12,7 @@ load_dotenv()  # Load environment variables
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
 # Setup logging
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'https://raw.githubusercontent.com/surafelx/quikclips-server/refs/heads/main/angular-argon-452914-f1-3f22392d66ed.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'http://raw.githubusercontent.com/surafelx/quikclips-server/refs/heads/main/angular-argon-452914-f1-3f22392d66ed.json'
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logging.info("Script started.")
 
