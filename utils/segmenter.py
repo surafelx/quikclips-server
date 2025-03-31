@@ -9,7 +9,7 @@ load_dotenv()  # Load environment variables
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # Set your OpenAI API key
-openai.api_key = OPENAI_API_KEY
+openai.api_key = "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"
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
