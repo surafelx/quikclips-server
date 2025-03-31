@@ -54,3 +54,6 @@ poetry.lock
 # Docker
 .dockerignore
 docker-compose.yml
+
+# Ignore API key files
+*.json
