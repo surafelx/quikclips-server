@@ -1,0 +1,56 @@
+# Byte-compiled / compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.venv/
+env/
+*.env
+*.venv
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Log files
+*.log
+logs/
+
+# Database and cache files
+*.sqlite3
+*.db
+*.sqlite
+__pycache__/
+
+# VS Code and JetBrains IDE settings
+.vscode/
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Static and media files (if using Cloudinary, these are unnecessary)
+static/videos/
+media/
+temp/
+temp_videos/
+
+# Pipenv and Poetry
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Cloud settings
+.cloud/
+.cloudignore
+
+# Docker
+.dockerignore
+docker-compose.yml

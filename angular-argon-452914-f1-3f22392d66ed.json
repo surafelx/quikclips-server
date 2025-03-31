@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "angular-argon-452914-f1",
+  "private_key_id": "3f22392d66edd6d5a040deaa7bb56c93a8509a85",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCs/7XqEi7G0+wo\n5ZgOuki5oQV/R1y9qZZ7FFi8/RsdvCFeIS4IwF/j81hpRaCKhIHZD4ZivG4WpGV2\nvcIirr/TdobfCpEEbl3vNaHvx2vbTnCeG3qI2Avp0LZ0VWFN7Uv8UeedULStpLzt\nyk1N5QQQvK5d6DMS7DdfR+g25b5snnKkrmDYbcEPETEEalTlIbqMe6pf6DkKsRfl\nyg8vRW1sZMDGgexuc0EZ3uQRmexiHaz18PtRM86EpdibYVFRT3A+ZC7bbzl0kDbl\ncDRmSYq06iK/4Hy7EVKpbJ3fmsmhYidAFpTR6wdY9B8GscNfV35nHUT34YJPvLz1\n8N2jlzAXAgMBAAECggEAOFPYDNsXvOhCk/xRerYfuMUbb5oyMZTWqMNyszIsEo3v\nRWFDRlkwv507k6c2gvNq/dxGsr5Mj/W+DZ/yZm2EitskRdoAZrNyxVCupc5GKXVM\nSMaEqqrBkkNBLPahxIg3ffPDGJ8u/PzPAROmAO9I2BQ/J9dTTd14l/7nNnyueFnD\nhxNjhPJyGYQuIIS7ikacvXO0xJxpF3w3VkXiiv7CmUAiI7ndFpt9Fx//YpBJvfE3\n64afiZrIT++sNgBdeVY/Xho/VDJOApE4M63NozBfZ30iY+xmy2ZVivhgZATu1qIW\nmIOCOdbQh0VP55331gsWzAOSG4PCPEalHOJsHYIfXQKBgQDf4QMy+a0UV7DfDkn1\n3Ec5UuriM1VtJP+crnLLDbX6YoXURq9cJ5cZZMhHvRqTabKpOtkz7zZTDceXEbHO\ncIHlG9KexMIzx2o/1xY0aK+T3/hpvHP1qU7ncTRWCJau8T3Y/u5Dr7zohHj7MKDM\nCFhSv3wjwd79GuAhu1SFjopqcwKBgQDF0eRpAXqIeTpah+3HXgHQJaCE/JCd13YG\nndXcl3PAwW+Ai44+CwYHUeIfjbWjAG68PkM5vgo/iUWb9TVpPnGNpnUQh7eF7UUf\n0UGcsNaAGq7Q/SbmXVuLX8mH9zNKYC6bwrHiffzIsiKfka8ySAsUXgE8q9pYVkHQ\nsAmxDCnGzQKBgFE10TBDi3oumRVAnKmXvypXHqbxEhLmceaHDVME5TcvV/Z5sZDP\nN6tZeKE1QpeopstmcnW5V05nWDg/je0huKzAG/XFz+ByfOMthXt7Yf1VKEpKtxGs\n2ddwpBh1QxuwnMvDJfDdpbv+mdgceqeoe0mA9moOIHJVtmnmBzHvU9xrAoGAJDce\n19J7ekynUDeeYmdlcZPR5UbPuvXdF60BoBbiDCHdpezmp5khC2oEOb6ZyDOmEjRb\n3lBaU/NvmPO1SYUzCLm2qMYP5SbhBsgqeOMvAdjgtEYEPxxMTCHHJWsuKqmdHsrw\nAgUKqDtkd04WguAJlzr2gwL7QDzaY7g2rgEKDOkCgYAKiEE8NZoFor6RvIU+V1op\nOxCQkUUlNYyQa8NolBygt/aCRNjgIHaIZBKwSU5Fq14rxM8wPUcVSlPdDaJW3zJR\nr9G3R+Y9BpkUKY9DE8DjjwA0LZ1n+8Gb/3pnwhNokIKxiFJtBvrxL0Ntq8nCHPJr\nS/9ep+nHzOVBmk5E+Px5mg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "surafel-ani@angular-argon-452914-f1.iam.gserviceaccount.com",
+  "client_id": "105335932953710237395",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/surafel-ani%40angular-argon-452914-f1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
